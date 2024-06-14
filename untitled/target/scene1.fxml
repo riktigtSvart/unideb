@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.gluonhq.charm.glisten.control.TextField?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane fx:id="reset" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="321.0" prefWidth="594.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button fx:id="tudom" layoutX="469.0" layoutY="60.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="84.0" text="Tudom" />
+      <Button fx:id="nem_tudom" layoutX="470.0" layoutY="104.0" mnemonicParsing="false" text="Nem tudom" />
+      <Button fx:id="tipp" layoutX="406.0" layoutY="60.0" mnemonicParsing="false" onAction="tipp" prefHeight="75.0" prefWidth="54.0" text="Tipp" />
+      <ChoiceBox layoutX="57.0" layoutY="222.0" prefHeight="25.0" prefWidth="146.0" />
+      <ChoiceBox layoutX="232.0" layoutY="222.0" prefHeight="25.0" prefWidth="146.0" />
+      <TextField layoutX="57.0" layoutY="84.0" prefHeight="26.0" prefWidth="321.0" />
+      <TextField layoutX="57.0" layoutY="148.0" prefHeight="26.0" prefWidth="321.0" />
+      <Button fx:id="reset" layoutX="469.0" layoutY="223.0" mnemonicParsing="false" onAction="#reset" prefHeight="30.0" prefWidth="84.0" text="reset" />
+   </children>
+</AnchorPane>

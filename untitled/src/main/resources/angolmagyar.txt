@@ -1,0 +1,32 @@
+accident,baleset
+ace,ász
+acid,sav
+acorn,makk
+across,keresztül
+address,cím
+adjustable spanner,franciakulcs
+adventure,kaland
+to advertise,hirdet
+aeroplane,repülőgép
+after,után
+again,újra
+agent,ügynök
+to aid,segít
+airport,repülőtér
+alarm,riadó
+all,összes
+alloy,ötvözet
+amazing,csodálatos
+anchor,horgony
+angel,angyal
+annual,évi
+ape,majom
+apple,alma
+arch,boltív
+architect,építész
+arid,száraz
+armor,páncél
+ash,hamu
+attic,padlás
+avenger,bosszúálló
+axe,balta
